@@ -1,0 +1,79 @@
+.App {
+    padding-top: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: teal;
+}
+
+.title {
+    text-align: center;
+    font-size: 26px;
+    border: 4px solid whitesmoke;
+    padding: 10px;
+    margin-bottom: 15px;
+    color: antiquewhite;
+}
+
+input {
+    margin: 5px;
+    border: 4px solid pink;
+    padding: 10px;
+}
+
+.form-group{
+    border: 6px solid white;
+    padding: 10px;
+}
+
+.form-control{
+    padding:  7px;
+    
+}
+
+ul.list-group.col-sm-4{
+    margin: 5px;
+}
+
+div.list-item {
+    width: 450px;
+    border: 4px solid pink;
+}
+
+div.list-item.delete-button {
+    display: inline-block;
+    border: 4px solid pink;
+    width: 20px;
+    margin:  0 auto;
+    border-radius: 5px;
+}
+
+button.btn.btn-success  {
+    float:right;
+    padding-left: 5px;
+    margin-top: 10px;
+    border: 4px solid pink;
+    padding: 5px;
+    border-radius: 5px;
+    
+}
+
+.delete-button {
+    float:right;
+    padding-left: 5px;
+    background: whitesmoke;
+    border-radius: 5px;
+}
+
+button.btn-.btn-danger{
+    float:left;
+    padding-left: 5px;
+    margin-top: 10px;
+    border: 4px solid pink;
+    padding: 5px;
+    border-radius: 5px;
+    background-color: aliceblue;
+    margin-bottom: 10px;
+    
+}
+
